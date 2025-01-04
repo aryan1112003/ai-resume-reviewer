@@ -128,8 +128,6 @@ We welcome contributions! Here's how you can help:
 ### Aryan Acharya
 - **GitHub**: [@aryan1112003](https://github.com/aryan1112003)
 - **LinkedIn**: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
-- **Portfolio**: [View Portfolio](https://endearing-elf-b10c56.netlify.app/)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
